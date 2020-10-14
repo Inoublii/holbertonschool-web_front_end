@@ -15,7 +15,7 @@
 
   }
   .box1 {
-	background-color: green;
+	background-color: #1DCE6E;
   }
 
   .box1, .box5 {
@@ -33,12 +33,12 @@
 
   .box2 {
 
-	background-color: blue;
+	background-color: #2D97E1;
   }
 
   .box3 {
 	font-size: 90px;
-	background-color: grey;
+	background-color: #344A61;
 	width: 18%;
 	height: 100%;
 
@@ -46,7 +46,7 @@
 
 
   .box4 {
-	background-color: purple;
+	background-color: #9D55B9;
   }
 
 
